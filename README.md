@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate full-stack developer, currently studying Computer Science and Data Science at Rutgers University</h3>
 
-- 🔭 I’m currently working on [FitHabit](https://github.com/chenjunlin110/FitHabit)
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vix4J5-sufaAbi_eplgRCdegf7pPJLsm/view?usp=sharing](https://drive.google.com/file/d/1vix4J5-sufaAbi_eplgRCdegf7pPJLsm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
