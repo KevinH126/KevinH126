@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A passionate full-stack developer, currently studying Computer Science and Data Science at Rutgers University</h3>
+<h3 align="center">A passionate full-stack developer, currently studying Computer Science and Mathematics at Rutgers University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
