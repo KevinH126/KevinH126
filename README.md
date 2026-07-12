@@ -95,18 +95,3 @@ A semantic document-search API in Go with a Python embedding microservice (sente
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KevinH126&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=KevinH126&show_icons=true&hide_border=true&theme=default&count_private=true" alt="Kevin's GitHub stats" height="165" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinH126&layout=compact&hide_border=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinH126&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
-  </picture>
-</p>
