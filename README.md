@@ -21,7 +21,7 @@
 ### About me
 
 - 🎓 **Computer Science & Mathematics** at Rutgers University — GPA 3.98, expected May 2028
-- 💼 Backend/platform internship experience — Platform Engineer Intern at **Atlantic Health**
+- 💼 Software Engineering Intern at **Capital One** (Summer 2026); previously Platform Engineer Intern at **Atlantic Health**
 - 🛠️ I build **backend systems and full-stack apps** — REST/async APIs, data pipelines, and the infrastructure around them
 - 🌱 Currently going deep on **semantic search, vector databases, and ML-serving architecture** (Go + Python microservices, pgvector, Redis)
 - 💬 Ask me about **Go, Python backends, distributed pipelines, or building search/RAG systems**
@@ -29,6 +29,9 @@
 ---
 
 ### 💼 Experience
+
+**Software Engineering Intern — Capital One** · Jun 2026 – Aug 2026
+Built a multi-phase migration tool converting 400+ legacy Python fraud/risk rules across 56 tenant repos into production DMN policies and Apache Flink jobs, automating ~89% of a manual workflow.
 
 **Platform Engineer Intern — Atlantic Health** · Jun 2025 – Aug 2025
 Built a Python/Celery automation service and a production Flask REST API (SQLAlchemy, automated tests) that replaced manual state-health reporting and exposed 500+ internal messages across systems, saving 10+ staff hours/week.
