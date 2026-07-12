@@ -21,7 +21,7 @@
 ### About me
 
 - 🎓 **Computer Science & Mathematics** at Rutgers University — GPA 3.98, expected May 2028
-- 💼 Software Engineering Intern at **Capital One** (Summer 2026); previously Platform Engineer Intern at **Atlantic Health**
+- 💼 Backend/platform internship experience — Platform Engineer Intern at **Atlantic Health**
 - 🛠️ I build **backend systems and full-stack apps** — REST/async APIs, data pipelines, and the infrastructure around them
 - 🌱 Currently going deep on **semantic search, vector databases, and ML-serving architecture** (Go + Python microservices, pgvector, Redis)
 - 💬 Ask me about **Go, Python backends, distributed pipelines, or building search/RAG systems**
@@ -30,9 +30,6 @@
 
 ### 💼 Experience
 
-**Software Engineering Intern — Capital One** · Jun 2026 – Aug 2026
-Built a multi-phase migration tool converting 400+ legacy Python fraud/risk rules across 56 tenant repos into production DMN policies and Apache Flink jobs, automating ~89% of a manual workflow.
-
 **Platform Engineer Intern — Atlantic Health** · Jun 2025 – Aug 2025
 Built a Python/Celery automation service and a production Flask REST API (SQLAlchemy, automated tests) that replaced manual state-health reporting and exposed 500+ internal messages across systems, saving 10+ staff hours/week.
 
@@ -40,7 +37,7 @@ Built a Python/Celery automation service and a production Flask REST API (SQLAlc
 
 ### 🚀 Featured projects
 
-**[Bandwagon — Social Concert App](https://github.com/KevinH126/Concert-With-Friends)** · React Native · TypeScript · FastAPI · PostgreSQL · Celery
+**[Bandwagon — Social Concert App](https://github.com/KevinH126/bandwagon)** · React Native · TypeScript · FastAPI · PostgreSQL · Celery
 A live full-stack concert-discovery app (deployed on Render) with an async Python/FastAPI backend, JWT/bcrypt auth, and a 100+ test pytest suite. Features an idempotent, deduplicated Celery/Redis notification pipeline with at-least-once delivery, a pure-function relevance scorer built with strict TDD, Ticketmaster API integration behind write-through caches, and per-show real-time WebSocket chat.
 
 **[publift-evidence-search — Semantic Search Engine](https://github.com/KevinH126/publift-evidence-search)** · Go · Python · PostgreSQL/pgvector · Redis · Docker
